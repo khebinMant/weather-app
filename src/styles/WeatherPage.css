@@ -1,0 +1,18 @@
+body{
+    background-color: aliceblue;
+}
+.weather-content{
+    position: absolute;
+    transform: translate(-10px,-10px);
+    top: 0;
+    left: 0;
+    width: auto;
+    height: auto;
+    margin: 20px ;
+}
+
+.info-content{
+    height: auto;
+    margin-top: 10px;
+    width: 19.5rem;
+}
