@@ -3,7 +3,7 @@
 # Weather App
 > Proyecto de la serie de videos para comprender hooks de react en este caso para practicar el useEffect()
 
-<img src="./src/assets/mock.png" height="300px">
+<img src="./src/assets/content.png" height="300px">
 
 
 ## Built with 
@@ -17,13 +17,13 @@
 
 ## Live demo
 
-[Live demo link](https://kruger-star-playground-km.netlify.app/)
+[Live demo link](https://weather-app-km.vercel.app/)
 
 ## Run it locally
 
  ### Setup
 
- - Clone this repo using `git clone https://github.com/khabLexander/taller-portafolio`
+ - Clone this repo using `git clone https://github.com/khabLexander/weather-app`
 
  ### Comands
 
